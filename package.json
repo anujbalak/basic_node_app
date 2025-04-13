@@ -1,0 +1,16 @@
+{
+  "name": "project_basic_node_site",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A very simple node.js website containing few different pages",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anuj",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
